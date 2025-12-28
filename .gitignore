@@ -1,4 +1,4 @@
-venv/
+venv-decorator/
 dist/
 build/
 *.spec
